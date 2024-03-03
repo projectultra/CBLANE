@@ -3,3 +3,4 @@ Welcome to the CBLANE repository! Delve into a comparative analysis of machine l
 
 Datasets: https://drive.google.com/drive/folders/1Ta5qOvpQcomVMzqmNnsIUZblxWyP3Xz2 <br>
 MSDenseNet: http://202.119.84.36:3079/msdensenet/
+Preprint doi: https://dx.doi.org/10.2139/ssrn.4746166
